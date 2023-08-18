@@ -32,7 +32,7 @@ npm start
 
 ![Home Screen](https://github.com/ajinkyap22/react-native-expo-jobs/blob/main/assets/images/home-screen.jpg?raw=true)
 
-![Search Screen](https://github.com/ajinkyap22/react-native-expo-jobs/blob/main/assets/images/search-screen.jpg?raw=true)
+![Search Screen](https://github.com/ajinkyap22/react-native-expo-jobs/blob/main/assets/images/seach-screen.jpg?raw=true)
 
 ![Job Details](https://github.com/ajinkyap22/react-native-expo-jobs/blob/main/assets/images/job-details.jpg?raw=true)
 
