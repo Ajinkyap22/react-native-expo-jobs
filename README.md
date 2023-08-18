@@ -28,13 +28,16 @@ npm start
 
 - Note - you will need to generate your own environment variables for the [JSearch API](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch).
 
-## Screenshots
+# Screenshots
 
-![Home Screen](https://github.com/ajinkyap22/react-native-expo-jobs/blob/main/assets/images/home-screen.jpg?raw=true)
+### Home Screen
+<img src="https://github.com/ajinkyap22/react-native-expo-jobs/blob/main/assets/images/home-screen.jpg?raw=true" width="250" alt="Home Screen" />
 
-![Search Screen](https://github.com/ajinkyap22/react-native-expo-jobs/blob/main/assets/images/seach-screen.jpg?raw=true)
+### Search Screen
+<img src="https://github.com/ajinkyap22/react-native-expo-jobs/blob/main/assets/images/seach-screen.jpg?raw=true" width="250" alt="Search Screen" />
 
-![Job Details](https://github.com/ajinkyap22/react-native-expo-jobs/blob/main/assets/images/job-details.jpg?raw=true)
+### Job Details
+<img src="https://github.com/ajinkyap22/react-native-expo-jobs/blob/main/assets/images/job-details.jpg?raw=true" width="250" alt="Job Details" />
 
 ## Technologies
 
