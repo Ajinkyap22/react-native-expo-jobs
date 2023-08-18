@@ -12,7 +12,8 @@
 
 # Get Started
 
-- Clone the repositroy.
+- You need to have react-native setup in your system
+- Clone the repository.
 - Go to the project directory in the terminal & install the required dependencies by using:
 
 ```
@@ -29,6 +30,11 @@ npm start
 
 ## Screenshots
 
+![Home Screen](https://github.com/ajinkyap22/react-native-expo-jobs/blob/main/assets/images/home-screen.jpg?raw=true)
+
+![Search Screen](https://github.com/ajinkyap22/react-native-expo-jobs/blob/main/assets/images/search-screen.jpg?raw=true)
+
+![Job Details](https://github.com/ajinkyap22/react-native-expo-jobs/blob/main/assets/images/job-details.jpg?raw=true)
 
 ## Technologies
 
@@ -38,6 +44,12 @@ npm start
 
 ## Features
 
+- Find Popular Jobs
+- Find Nearby Jobs
+- Search for Jobs
+- Search for jobs categorically - Full-time, Part-time & Contractor
+- View Job Details such as Description, Qualifications & Responsibilities
+- Apply for a Job
 
 ## Status
 
